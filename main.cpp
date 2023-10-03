@@ -9,8 +9,7 @@
 #include "necessary_headers.h"
 
 
-int main()
-{
+int main(){
 	//std::cout << "print check 4" << std::endl;
 	// initialize glfw and create window/context
 	if (!glfwInit()) {
