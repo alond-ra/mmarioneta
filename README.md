@@ -39,7 +39,7 @@ En la barra de la izquierda (la cual puede ser arrastrada, no está fijada), se 
 ![slider control](https://i.imgur.com/7v5b63K.jpg)
 
 
-### Comentarios adiconales
+### Comentarios adicionales
 - Las clases Camera y ShaderClass son prácticamente idénticas a las de los vídeos de Victor Gordon. Las modificaciones son mínimas para las necesidades del presente proyecto.
 - La capacidad de las pilas para el undo y redo es desconocida.
 - No pude implementar el control de la marioneta por teclado, en su lugar se tienen los controles de Puppet en la parte inferior de la interfaz de ImGui.
