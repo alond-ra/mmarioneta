@@ -44,6 +44,10 @@ En la barra de la izquierda (la cual puede ser arrastrada, no está fijada), se 
 - La capacidad de las pilas para el undo y redo es desconocida.
 - No pude implementar el control de la marioneta por teclado, en su lugar se tienen los controles de Puppet en la parte inferior de la interfaz de ImGui.
 
+### Movimientos y botones
+
+![](https://github.com/alond-ra/mmarioneta/blob/main/movements.gif)
+
 
 ### Referencias consultadas
 
