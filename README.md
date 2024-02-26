@@ -1,6 +1,6 @@
 # The Puppet
 
-### Overview de las instrucciones provistas en [CG__The_Puppet.pdf](https://drive.google.com/file/d/1IyVpmkiUmeRPOFF_5HWuvTPRzHP6x5FZ/view).
+### Overview de las instrucciones
 
 Crear una marioneta 3D utilizando modelos jerárquicos y estructuras de datos.
 
@@ -26,7 +26,7 @@ También se pide incluir un archivo readme o markdown con instrucciones para eje
 
 1. Clonar este repositorio. Se incluyeron todas las librerías necesarias para que sea ejecutado correctamente. 
 
-2. Correr eñ archivo [main.cpp](main.cpp) como en el vídeo.
+2. Correr el archivo [main.cpp](main.cpp) como en el vídeo.
 
 3. **Manejo de los controles**: Para manipular la posición de la marioneta se ha incluido una interfaz con ImGui. 
 
